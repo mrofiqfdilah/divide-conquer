@@ -15,5 +15,3 @@ def binary_search(isi_array, target_angka, nilai_minimal,nilai_maksimal):
 data = [2, 5, 8, 12, 16, 23, 38]
 hasil = binary_search(data, 23, 0, 6)
 print(hasil)
-
-
